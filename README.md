@@ -20,23 +20,23 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## The projects I've done in this course:
 ### The basic part :
-    ### Course 1
+####Course 1
 	* Words and Frequency representation
 	* Sentemint Analysis using Naive Bayes
 	* Predict relationships among words using PCA
 	* Naive Machine Translation and LSH
-    ### Course 2
+####Course 2
 	* Auto Correct system
 	* Parts*of*Speech Tagging (POS)
 	* Language Models Auto*Complete System
 	* Word Embeddings and the CBOW model
 ### The Advanced models, using Trax Framework :
-    ### Course 3
+####Course 3
 	* Sentiment Analysis with Deep Neural Networks
 	* Deep N*grams
 	* Named Entity Recognition (NER)
 	* Question duplicates
-    ### Course 4
+####Course 4
 	* Calculating the Bilingual Evaluation Understudy (BLEU) score
 	* Neural Machine Translation
 	* Transformer Summarizer
