@@ -8,7 +8,7 @@
 	* Word Embeddings
 	* LSH 
 	* POS
-	* N*grams
+	* N-grams
 	* GRU's
 	* RNN's
 	* LSTM's
@@ -27,13 +27,13 @@
 	* Naive Machine Translation and LSH
 #### Course 2
 	* Auto Correct system
-	* Parts*of*Speech Tagging (POS)
-	* Language Models Auto*Complete System
+	* Parts-of-Speech Tagging (POS)
+	* Language Models Auto-Complete System
 	* Word Embeddings and the CBOW model
 ### The Advanced models, using Trax Framework :
 #### Course 3
 	* Sentiment Analysis with Deep Neural Networks
-	* Deep N*grams
+	* Deep N-grams
 	* Named Entity Recognition (NER)
 	* Question duplicates
 #### Course 4
